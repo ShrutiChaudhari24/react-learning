@@ -1,0 +1,16 @@
+/* ye global css hai matlab yaha jo bhi likhenge ye sub pae apply ho jayega */
+
+/* ess mae srf css ka boiler plate likha */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+}

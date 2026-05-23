@@ -1,0 +1,16 @@
+@import "tailwindcss";
+/* abb hum apne code mae tailwind css kahi bhi use kar sakte hai */
+
+/* ess boiler plate ki bhi jarurat nahi nahi tailwind use kar rahe hai tho */
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+} */

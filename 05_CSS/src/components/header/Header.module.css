@@ -1,0 +1,13 @@
+/* jo header specific code that vo ess mae likh diya */
+.header{
+  background-color: lightseagreen;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+.btn{
+  background-color: yellow;
+}
