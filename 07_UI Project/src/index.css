@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* ye tailwind mae nahi kar sakte ess liye likh diay */
+#right::-webkit-scrollbar{
+    display: none;
+}
