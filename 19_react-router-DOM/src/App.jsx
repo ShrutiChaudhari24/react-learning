@@ -49,7 +49,7 @@ export default App
   jis ka route banana hai = kya route banana hi
   leetcode.com = /
   leetcode.com/problemset = /problemset
-  leetcode.com/contest = /contestS
+  leetcode.com/contest = /contest
 
 
   ============================================================================================================
@@ -63,7 +63,7 @@ export default App
   // basically ager hidden rakhna chate hai tho hash router ka use karte hai
   leetcode.com = /#/
   leetcode.com/problemset = /#/problemset
-  leetcode.com/contest = /#/contestS
+  leetcode.com/contest = /#/contest
 
   =======================================================================
                 3) Memory Router
